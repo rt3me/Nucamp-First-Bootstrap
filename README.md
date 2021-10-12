@@ -1,1 +1,2 @@
-# Project completed during Nucamp.co full stack JavaScript bootcamp
+# Nucamp Site
+Project completed during Nucamp.co full stack JavaScript bootcamp
