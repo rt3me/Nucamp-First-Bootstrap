@@ -1,5 +1,6 @@
 body {
   font-family: "Open Sans", sans-serif;
+  background-color: #cdd9bd;
 }
 
 h1,
@@ -9,7 +10,7 @@ h3 {
 }
 
 h2 {
-  color: #3046c5;
+  color: #3e601b;
 }
 
 header h2 {
@@ -17,7 +18,7 @@ header h2 {
 }
 
 .site-footer {
-  background-image: linear-gradient(#cec8ff, white);
+  background-image: linear-gradient(#b7c88e, white);
   padding: 20px 0;
 }
 
@@ -36,7 +37,7 @@ header h2 {
 }
 
 .navbar {
-  background-color: #901cad;
+  background-color: #a4c63c;
 }
 
 .tab-content {
