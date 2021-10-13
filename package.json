@@ -8,8 +8,16 @@
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rt3me/nucampsite.git"
+  },
   "author": "Robert Turner",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rt3me/git-test/issues"
+  },
+  "homepage": "https://github.com/rt3me/git-test#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
